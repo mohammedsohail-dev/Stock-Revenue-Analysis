@@ -8,8 +8,10 @@ The Result looks as follows
 
 ## Graphs for Tesla
 
-![Question 5](https://github.com/user-attachments/assets/23c332be-92ae-410d-853c-34167b7732e5)
+![Question 5](https://github.com/user-attachments/assets/541c8702-f89f-4469-aa6b-41b365cd4866)
+
 
 ## Graphs for GameStop
 
-![Question 6](https://github.com/user-attachments/assets/f1a4fc68-5e0c-4504-bc93-e4c793c82089)
+
+![Question 6](https://github.com/user-attachments/assets/79ce7088-3251-490b-84f4-1cb2f84d10fe)
