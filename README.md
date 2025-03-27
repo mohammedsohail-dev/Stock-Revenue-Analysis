@@ -1,4 +1,4 @@
-## Analysing Historical Stock/ Revenue data of Tesla and GameStop:
+## Analysing Historical Stock/ Revenue data of Tesla and GameStop After performing Web scraping:
 
 The following is a jupyter notebook which performs web scraping and produces graphs comparing the Historical Stock and Revenue of two companies:
     1) Tesla
